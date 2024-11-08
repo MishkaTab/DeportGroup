@@ -1,0 +1,58 @@
+body {
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+
+}
+
+hr {
+    height: 4px;
+
+}
+.t {
+    text-align: center;
+    color: black;
+    font-family: "Roboto";
+    line-height: 30px;
+    font-size: 24px;
+    text-align: center;
+    padding: 1%;
+}
+
+.text {
+    border: 5px solid DeepSkyBlue;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+}
+
+.header {
+    border: 5px solid white;
+    margin-bottom: 2%;
+    padding: 2%;
+    background-color: hsl(195, 100%, 50%);
+
+}
+
+.htext{
+    color: whitesmoke;
+    font-family: "Roboto";
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+.img {
+    text-align: center;
+    padding: 2%;
+    margin-top: 3%;
+}
+
+footer {
+    border: 5px solid white;
+    background-color: hsl(195, 100%, 50%);
+    color: whitesmoke;
+    font-family: "Roboto";
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 2%;
+}
